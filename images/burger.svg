@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9f43"/><stop offset="1" stop-color="#ee5a24"/></linearGradient></defs>
+<rect width="400" height="300" fill="url(#g)"/>
+<circle cx="303" cy="51" r="6" fill="#fff" opacity="0.25"/><circle cx="28" cy="10" r="4" fill="#fff" opacity="0.35"/><circle cx="310" cy="250" r="5" fill="#fff" opacity="0.25"/><circle cx="21" cy="149" r="6" fill="#fff" opacity="0.15"/><circle cx="383" cy="221" r="7" fill="#fff" opacity="0.35"/><circle cx="359" cy="58" r="4" fill="#fff" opacity="0.35"/><circle cx="293" cy="145" r="7" fill="#fff" opacity="0.35"/><circle cx="55" cy="227" r="5" fill="#fff" opacity="0.15"/><circle cx="195" cy="219" r="5" fill="#fff" opacity="0.25"/><circle cx="368" cy="58" r="4" fill="#fff" opacity="0.35"/><circle cx="335" cy="159" r="3" fill="#fff" opacity="0.15"/><circle cx="311" cy="112" r="5" fill="#fff" opacity="0.25"/><circle cx="109" cy="273" r="7" fill="#fff" opacity="0.35"/><circle cx="367" cy="267" r="3" fill="#fff" opacity="0.35"/><circle cx="195" cy="135" r="7" fill="#fff" opacity="0.25"/><circle cx="165" cy="192" r="7" fill="#fff" opacity="0.15"/><circle cx="55" cy="266" r="7" fill="#fff" opacity="0.15"/><circle cx="69" cy="147" r="5" fill="#fff" opacity="0.35"/>
+<circle cx="200" cy="160" r="128" fill="#fff" opacity=".22"/>
+<circle cx="200" cy="160" r="100" fill="#fff" opacity=".18"/>
+<g transform="translate(200 158) scale(1.0) rotate(0)"><g>
+<ellipse cx="0" cy="98" rx="125" ry="13" fill="#000" opacity=".18"/>
+<path d="M-105 58 H105 Q105 94 68 94 H-68 Q-105 94 -105 58Z" fill="#d98a3d"/>
+<rect x="-113" y="28" width="226" height="36" rx="18" fill="#5a2e1a"/>
+<path d="M-112 26 H112 Q112 36 104 36 L92 54 Q88 60 84 54 L76 36 H-24 L-34 62 Q-38 68 -42 62 L-52 36 H-104 Q-112 36 -112 26Z" fill="#ffc83d"/>
+<rect x="-108" y="6" width="216" height="22" rx="11" fill="#e03c31"/>
+<path d="M-110 4 q14 -20 28 0 t28 0 t28 0 t28 0 t28 0 t28 0 t28 0 t14 0 V14 H-110Z" fill="#6cbf3a"/>
+<path d="M-110 -4 Q-110 -104 0 -104 Q110 -104 110 -4 Z" fill="#e8a24a"/>
+<path d="M-85 -40 Q-80 -88 -20 -96" stroke="#f6c675" stroke-width="9" fill="none" stroke-linecap="round" opacity=".7"/>
+<ellipse cx="-60" cy="-62" rx="6" ry="3.2" fill="#fff4d6" transform="rotate(-20 -60 -62)"/><ellipse cx="-25" cy="-80" rx="6" ry="3.2" fill="#fff4d6" transform="rotate(10 -25 -80)"/><ellipse cx="15" cy="-84" rx="6" ry="3.2" fill="#fff4d6" transform="rotate(-8 15 -84)"/><ellipse cx="55" cy="-66" rx="6" ry="3.2" fill="#fff4d6" transform="rotate(25 55 -66)"/><ellipse cx="-45" cy="-40" rx="6" ry="3.2" fill="#fff4d6" transform="rotate(15 -45 -40)"/><ellipse cx="5" cy="-55" rx="6" ry="3.2" fill="#fff4d6" transform="rotate(-20 5 -55)"/><ellipse cx="45" cy="-35" rx="6" ry="3.2" fill="#fff4d6" transform="rotate(5 45 -35)"/><ellipse cx="-5" cy="-30" rx="6" ry="3.2" fill="#fff4d6" transform="rotate(30 -5 -30)"/></g></g>
+</svg>

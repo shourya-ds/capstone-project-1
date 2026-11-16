@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd9a0"/><stop offset="1" stop-color="#ffefd2"/></linearGradient></defs>
+<rect width="400" height="300" fill="url(#s)"/>
+<circle cx="340" cy="50" r="26" fill="#fff3c4"/>
+<rect x="50" y="60" width="300" height="200" rx="4" fill="#2b2b2b"/>
+<rect x="60" y="60" width="280" height="22" fill="#1e1e1e"/>
+<text x="200" y="76" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="15" fill="#f39c12">TASTY BITES</text>
+<rect x="60" y="80" width="40" height="46" fill="#c0392b"/><rect x="100" y="80" width="40" height="46" fill="#fff8ee"/><rect x="140" y="80" width="40" height="46" fill="#c0392b"/><rect x="180" y="80" width="40" height="46" fill="#fff8ee"/><rect x="220" y="80" width="40" height="46" fill="#c0392b"/><rect x="260" y="80" width="40" height="46" fill="#fff8ee"/><rect x="300" y="80" width="40" height="46" fill="#c0392b"/><rect x="340" y="80" width="40" height="46" fill="#fff8ee"/><path d="M60 126 q20 24 40 0Z" fill="#c0392b"/><path d="M100 126 q20 24 40 0Z" fill="#fff8ee"/><path d="M140 126 q20 24 40 0Z" fill="#c0392b"/><path d="M180 126 q20 24 40 0Z" fill="#fff8ee"/><path d="M220 126 q20 24 40 0Z" fill="#c0392b"/><path d="M260 126 q20 24 40 0Z" fill="#fff8ee"/><path d="M300 126 q20 24 40 0Z" fill="#c0392b"/><path d="M340 126 q20 24 40 0Z" fill="#fff8ee"/>
+<rect x="76" y="162" width="110" height="68" rx="4" fill="#ffe2a8"/>
+<rect x="76" y="162" width="110" height="68" rx="4" fill="none" stroke="#f39c12" stroke-width="4"/>
+<line x1="131" y1="162" x2="131" y2="230" stroke="#f39c12" stroke-width="3"/>
+<circle cx="104" cy="214" r="9" fill="#c0392b"/><circle cx="160" cy="214" r="9" fill="#6cbf3a"/>
+<rect x="218" y="152" width="70" height="108" rx="4" fill="#c0392b"/>
+<circle cx="276" cy="208" r="4" fill="#ffd33d"/>
+<rect x="228" y="162" width="50" height="40" rx="3" fill="#ffe2a8"/>
+<rect x="300" y="190" width="34" height="70" fill="#8a5a3c"/><circle cx="317" cy="178" r="22" fill="#3fa34d"/><circle cx="304" cy="190" r="14" fill="#6cbf3a"/>
+<rect x="0" y="260" width="400" height="40" fill="#6b4a33"/>
+<rect x="0" y="260" width="400" height="6" fill="#8a5a3c"/>
+</svg>
